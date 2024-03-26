@@ -16,7 +16,7 @@ border:border-box;
     width: 100px;
 }
 .logo{
-    background-image: url("/assets/amazon-symbol-png-logo-vector-9.png");
+background-image: url("./assets/amazon-symbol-png-logo-vector-9.png");
     height: 50px;
     width: 100%;
     background-size:cover;
@@ -119,7 +119,7 @@ font-size: 30px;
 
 /**hero section**/
 .hero-section{
-    background-image: url("/assets/hero\ img.jpg");
+    background-image: url("./assets/hero\ img.jpg");
     height: 380px;
     background-size: cover;
     display: flex;
@@ -212,7 +212,7 @@ ul a{
     align-items: center;
 }
 .logo{
-    background-image: url(/assets/amazon-symbol-png-logo-vector-9.png);
+background-image: url("./assets/amazon-symbol-png-logo-vector-9.png");
     height: 50px;
     width: 100px;
     background-size:cover;
